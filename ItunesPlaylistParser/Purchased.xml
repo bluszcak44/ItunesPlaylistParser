@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-04-28T19:05:27Z</date>
+	<key>Application Version</key><string>12.5.1.21</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>7A7DE6E6F3E8BF00</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3023</key>
+		<dict>
+			<key>Track ID</key><integer>3023</integer>
+			<key>Name</key><string>Wasted On You (feat. ROZES)</string>
+			<key>Artist</key><string>Louis Futon</string>
+			<key>Album Artist</key><string>Louis Futon</string>
+			<key>Composer</key><string>Tyler Minford &#38; Elizabeth Marie Mencel</string>
+			<key>Album</key><string>Wasted On You (feat. ROZES) - Single</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8036996</integer>
+			<key>Total Time</key><integer>224120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-03-04T20:11:24Z</date>
+			<key>Date Added</key><date>2016-03-04T20:11:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-02-12T08:00:00Z</date>
+			<key>Normalization</key><integer>7465</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>441A1B9344C30880</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Louis%20Futon/Wasted%20On%20You%20(feat.%20ROZES)%20-%20Single/01%20Wasted%20On%20You%20(feat.%20ROZES).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3027</key>
+		<dict>
+			<key>Track ID</key><integer>3027</integer>
+			<key>Name</key><string>Alligator Blood</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>There Is a Hell Believe Me I've Seen It. There Is a Heaven Let's Keep It a Secret.</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9734527</integer>
+			<key>Total Time</key><integer>271853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2016-06-05T19:01:23Z</date>
+			<key>Date Added</key><date>2016-06-05T19:00:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-10-05T07:00:00Z</date>
+			<key>Normalization</key><integer>11727</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AE53EC02BEB8FFB4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/There%20Is%20a%20Hell%20Believe%20Me%20I've%20Seen%20It_/07%20Alligator%20Blood.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3029</key>
+		<dict>
+			<key>Track ID</key><integer>3029</integer>
+			<key>Name</key><string>Blacklist</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>There Is a Hell Believe Me I've Seen It. There Is a Heaven Let's Keep It a Secret.</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8654450</integer>
+			<key>Total Time</key><integer>240013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2016-06-05T19:01:46Z</date>
+			<key>Date Added</key><date>2016-06-05T19:00:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-10-05T07:00:00Z</date>
+			<key>Normalization</key><integer>8534</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FD8CA6C2FE8CE248</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/There%20Is%20a%20Hell%20Believe%20Me%20I've%20Seen%20It_/09%20Blacklist.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3031</key>
+		<dict>
+			<key>Track ID</key><integer>3031</integer>
+			<key>Name</key><string>Anthem</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>There Is a Hell Believe Me I've Seen It. There Is a Heaven Let's Keep It a Secret.</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10312938</integer>
+			<key>Total Time</key><integer>289986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2016-06-05T19:03:30Z</date>
+			<key>Date Added</key><date>2016-06-05T19:01:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-10-05T07:00:00Z</date>
+			<key>Normalization</key><integer>8738</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C09AC6DC60C80DA4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/There%20Is%20a%20Hell%20Believe%20Me%20I've%20Seen%20It_/02%20Anthem%201.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3033</key>
+		<dict>
+			<key>Track ID</key><integer>3033</integer>
+			<key>Name</key><string>Crucify Me</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>There Is a Hell Believe Me I've Seen It. There Is a Heaven Let's Keep It a Secret.</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>13216165</integer>
+			<key>Total Time</key><integer>379520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2016-06-05T19:05:34Z</date>
+			<key>Date Added</key><date>2016-06-05T19:01:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-10-05T07:00:00Z</date>
+			<key>Normalization</key><integer>9867</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>909EDFC478FB894D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/There%20Is%20a%20Hell%20Believe%20Me%20I've%20Seen%20It_/01%20Crucify%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3035</key>
+		<dict>
+			<key>Track ID</key><integer>3035</integer>
+			<key>Name</key><string>Chelsea Smile - Live In Mexico City</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased MPEG-4 video file</string>
+			<key>Size</key><integer>98226117</integer>
+			<key>Total Time</key><integer>428960</integer>
+			<key>Track Number</key><integer>25</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:57:44Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:19Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5766805018BAAD40</string>
+			<key>Explicit</key><true/>
+			<key>Content Rating</key><string>||0|</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>352</integer>
+			<key>Music Video</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Unknown%20Album/25%20Chelsea%20Smile%20-%20Live%20In%20Mexico%20Ci.m4v</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3037</key>
+		<dict>
+			<key>Track ID</key><integer>3037</integer>
+			<key>Name</key><string>Chelsea Smile (KC Blitz)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8778937</integer>
+			<key>Total Time</key><integer>252258</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:57:37Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>7514</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>30FB93B248A14F2A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/12%20Chelsea%20Smile%20(KC%20Blitz).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3039</key>
+		<dict>
+			<key>Track ID</key><integer>3039</integer>
+			<key>Name</key><string>Chelsea Smile (Travis McCoy)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7891031</integer>
+			<key>Total Time</key><integer>222312</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:56:34Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>8441</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AC387D0DCD10D226</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/23%20Chelsea%20Smile%20(Travis%20McCoy).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3041</key>
+		<dict>
+			<key>Track ID</key><integer>3041</integer>
+			<key>Name</key><string>The Comedown</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8765332</integer>
+			<key>Total Time</key><integer>249204</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:57:50Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3558531790</integer>
+			<key>Play Date UTC</key><date>2016-10-05T21:03:10Z</date>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>10048</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Comedown</string>
+			<key>Persistent ID</key><string>B591F9ACE781251A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/01%20The%20Comedown.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3043</key>
+		<dict>
+			<key>Track ID</key><integer>3043</integer>
+			<key>Name</key><string>The Comedown (RobotSonics)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10871935</integer>
+			<key>Total Time</key><integer>317310</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:57:57Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>7029</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Comedown (RobotSonics)</string>
+			<key>Persistent ID</key><string>870494F320A27EC5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/11%20The%20Comedown%20(RobotSonics).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3045</key>
+		<dict>
+			<key>Track ID</key><integer>3045</integer>
+			<key>Name</key><string>Death Breath</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9085216</integer>
+			<key>Total Time</key><integer>260699</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:58:05Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3558532354</integer>
+			<key>Play Date UTC</key><date>2016-10-05T21:12:34Z</date>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>9090</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>239FF00EB6094A07</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/04%20Death%20Breath.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3047</key>
+		<dict>
+			<key>Track ID</key><integer>3047</integer>
+			<key>Name</key><string>Death Breath (Toxic Avenger)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9531591</integer>
+			<key>Total Time</key><integer>273027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:58:10Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>8038</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8BC1F1175871960</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/14%20Death%20Breath%20(Toxic%20Avenger).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3049</key>
+		<dict>
+			<key>Track ID</key><integer>3049</integer>
+			<key>Name</key><string>Diamonds Aren't Forever</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8080029</integer>
+			<key>Total Time</key><integer>228020</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:58:15Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3558532697</integer>
+			<key>Play Date UTC</key><date>2016-10-05T21:18:17Z</date>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>9097</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7A9505BEB16D8D83</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/07%20Diamonds%20Aren't%20Forever.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3051</key>
+		<dict>
+			<key>Track ID</key><integer>3051</integer>
+			<key>Name</key><string>Diamonds Aren't Forever (I Haunt Wizards)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8358002</integer>
+			<key>Total Time</key><integer>234572</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:58:21Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>7968</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9865B459CC3C1D38</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/17%20Diamonds%20Aren't%20Forever%20(I%20Haunt.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3053</key>
+		<dict>
+			<key>Track ID</key><integer>3053</integer>
+			<key>Name</key><string>Football Season Is Over</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4407612</integer>
+			<key>Total Time</key><integer>115725</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:58:24Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3558532469</integer>
+			<key>Play Date UTC</key><date>2016-10-05T21:14:29Z</date>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>9945</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F8806C2105BB2F9B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/05%20Football%20Season%20Is%20Over.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3055</key>
+		<dict>
+			<key>Track ID</key><integer>3055</integer>
+			<key>Name</key><string>Football Season Is Over (After the Night)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8385940</integer>
+			<key>Total Time</key><integer>236836</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:58:33Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>7667</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8005725BE5D63938</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/15%20Football%20Season%20Is%20Over%20(After%20th.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3057</key>
+		<dict>
+			<key>Track ID</key><integer>3057</integer>
+			<key>Name</key><string>Football Season Is Over (Utah Saints)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10705733</integer>
+			<key>Total Time</key><integer>302397</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T20:58:42Z</date>
+			<key>Date Added</key><date>2016-10-05T20:56:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>7627</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>37EA6646FB788B6D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/21%20Football%20Season%20Is%20Over%20(Utah%20Sai.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3059</key>
+		<dict>
+			<key>Track ID</key><integer>3059</integer>
+			<key>Name</key><string>Blessed With a Curse</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>There Is a Hell Believe Me I've Seen It. There Is a Heaven Let's Keep It a Secret.</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10666084</integer>
+			<key>Total Time</key><integer>308040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2016-10-05T20:58:53Z</date>
+			<key>Date Added</key><date>2016-10-05T20:58:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-10-04T07:00:00Z</date>
+			<key>Normalization</key><integer>6832</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B03244E242344C0D</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/There%20Is%20a%20Hell%20Believe%20Me%20I've%20Seen%20It_/11%20Blessed%20With%20a%20Curse.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3061</key>
+		<dict>
+			<key>Track ID</key><integer>3061</integer>
+			<key>Name</key><string>Diamonds Aren't Forever</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8080029</integer>
+			<key>Total Time</key><integer>228020</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T21:15:29Z</date>
+			<key>Date Added</key><date>2016-10-05T21:15:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>9097</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E299373095A90B7</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/07%20Diamonds%20Aren't%20Forever%201.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3063</key>
+		<dict>
+			<key>Track ID</key><integer>3063</integer>
+			<key>Name</key><string>No Need For Introductions, I've Read About Girls Like You On the Backs of Toilet Doors</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>2528529</integer>
+			<key>Total Time</key><integer>59584</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T21:15:23Z</date>
+			<key>Date Added</key><date>2016-10-05T21:15:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>6209</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A5344F236F52CE64</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/09%20No%20Need%20For%20Introductions,%20I've%20R.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3065</key>
+		<dict>
+			<key>Track ID</key><integer>3065</integer>
+			<key>Name</key><string>Chelsea Smile (KC Blitz)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8778937</integer>
+			<key>Total Time</key><integer>252258</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T21:16:58Z</date>
+			<key>Date Added</key><date>2016-10-05T21:15:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>7514</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F82BF0A5845E5810</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/12%20Chelsea%20Smile%20(KC%20Blitz)%201.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3067</key>
+		<dict>
+			<key>Track ID</key><integer>3067</integer>
+			<key>Name</key><string>Sleep With One Eye Open (Tek-One)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9984732</integer>
+			<key>Total Time</key><integer>281039</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T21:17:10Z</date>
+			<key>Date Added</key><date>2016-10-05T21:15:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>4375</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8CE882219F7A157A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/16%20Sleep%20With%20One%20Eye%20Open%20(Tek-One).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3069</key>
+		<dict>
+			<key>Track ID</key><integer>3069</integer>
+			<key>Name</key><string>Football Season Is Over (Utah Saints)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10705733</integer>
+			<key>Total Time</key><integer>302397</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T21:17:28Z</date>
+			<key>Date Added</key><date>2016-10-05T21:15:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>7627</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0067016EFAB8FA7A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/21%20Football%20Season%20Is%20Over%20(Utah%20Sai%201.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3071</key>
+		<dict>
+			<key>Track ID</key><integer>3071</integer>
+			<key>Name</key><string>Sleep With One Eye Open (M Shawn Crahan)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12336190</integer>
+			<key>Total Time</key><integer>354451</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T21:17:35Z</date>
+			<key>Date Added</key><date>2016-10-05T21:15:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>11278</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9F04ADD58F3B87B2</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/22%20Sleep%20With%20One%20Eye%20Open%20(M%20Shawn.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3073</key>
+		<dict>
+			<key>Track ID</key><integer>3073</integer>
+			<key>Name</key><string>Chelsea Smile (Travis McCoy)</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>Suicide Season (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7891031</integer>
+			<key>Total Time</key><integer>222312</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-10-05T21:17:40Z</date>
+			<key>Date Added</key><date>2016-10-05T21:15:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-09-29T07:00:00Z</date>
+			<key>Normalization</key><integer>8441</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFC2782321B78EF0</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/Blaine/Music/iTunes/iTunes%20Media/Music/Bring%20Me%20the%20Horizon/Suicide%20Season%20(Deluxe)/23%20Chelsea%20Smile%20(Travis%20McCoy)%201.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Purchased</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>6334</integer>
+			<key>Playlist Persistent ID</key><string>764CE3CA9FBFF2B5</string>
+			<key>Distinguished Kind</key><integer>19</integer>
+			<key>Purchased Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>3023</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3033</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3037</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3041</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3047</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3049</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3053</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3055</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3059</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3071</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3073</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
