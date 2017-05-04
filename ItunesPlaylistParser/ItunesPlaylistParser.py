@@ -1,5 +1,8 @@
-import numpy
+import re, argparse
+import sys
 import plistlib
+from matplotlib import pyplot
+import numpy as np
 
 #Itunes Playlist parser
 
@@ -45,7 +48,7 @@ def findDuplicates(fileName):
             print("Found %d duplicates. Track names saved to dup.txt" % len(dups))
         else:
             print("No duplicate tracks found!")
-        f = open("dups.txt", "w")
+        f = open("dups.txt", 'w')
         for val in dups:
             f.write("[%d] %s\n" % (val[0], val[1]))
         f.close()
@@ -79,10 +82,10 @@ def findCommonTracks(fileNames):
     commonTracks = set.intersection(*trackNameSets)
     # write to file
     if len(commonTracks) > 0:
-        f = open("common.txt", "w")
+        f = open("common.txt", 'w')
         for val in commonTracks:
             s = "%s\n" % val
-            f.writelines(s.encode("UTF-8"))
+            f.write(s) #had to take out the encoding, when encoding ruins the \n for some reason
         f.close()
         print("%d common tracks found. "
               "Track names written to common.txt" % len(commonTracks))
@@ -114,12 +117,59 @@ def plotStats(fileName):
         print("No valid Album Rating/Total Time data in %s." % fileName)
         return
 
+    # scatter plot
+    x = np.array(durations, np.int32)
+
+    # convert to minutes
+    x = any/60000.0
+    y = np.array(ratings, np.int32)
+    pyplot.subplot(2, 1, 1)
+    pyplot.plot(x, y, 'o')
+    pyplot.axis([0, 1.05*np.max(x), -1, 110])
+    pyplot.xlabel('Track duration')
+    pyplot.ylabel('Track rating')
+
+    #plot histogram
+    pyplot.subplot(2, 1, 2)
+    pyplot.hist(x, bins=20)
+    pyplot.xlabel("Track duration")
+    pyplot.ylabel('Count')
+
+    #show plot
+    pyplot.show()
 
 
+def main():
+    # create parser
+    descStr = """
+    This program analyzers playlist files (.xml) exported from Itunes.
+    """
+    parser = argparse.ArgumentParser(description=descStr)
+
+    # add a mutually exclusive group of arguments
+    group = parser.add_mutually_exclusive_group()
+
+    # add expected arguments
+    group.add_argument('--common', nargs='*', dest='plFiles', required=False)
+    group.add_argument('--stats', dest='plFile', required=False)
+    group.add_argument('--dup', dest='plFileD', required=False)
+
+    #parse args
+    args = parser.parse_args()
+
+    if args.plFiles:
+        # find common tracks
+        findCommonTracks(args.plFiles)
+    elif args.plFile:
+        # plot stats
+        plotStats(args.plFile)
+    elif args.plFileD:
+        #find duplicate tracks
+        findDuplicates(args.plFileD)
+    else:
+        print("These are not the tracks you are looking for.")
 
 
-
-
-# def main():
-
-   # findDuplicates('Purchased.xml')
+# main method
+if __name__ == '__main__':
+    main()

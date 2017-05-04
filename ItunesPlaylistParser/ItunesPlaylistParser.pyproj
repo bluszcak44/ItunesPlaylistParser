@@ -12,6 +12,9 @@
     <OutputPath>.</OutputPath>
     <Name>ItunesPlaylistParser</Name>
     <RootNamespace>ItunesPlaylistParser</RootNamespace>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <CommandLineArguments>--common Purchased.xml Songs.xml</CommandLineArguments>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
